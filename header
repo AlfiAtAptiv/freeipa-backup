@@ -1,0 +1,8 @@
+[ipa]
+type = DATA
+time = 2022-04-26T14:57:06
+host = ipasrvd.home.local
+ipa_version = 4.9.8
+version = 1
+services = KDC,KPASSWD,KEYS,CA,OTPD,HTTP,DNS,DNSKeySync
+
